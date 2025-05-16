@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts Service prod"
+  message: "Accounts Service prod_1"
   contactDetails:
     name: "Levits"
     email: "Hx3yM@example.com"
