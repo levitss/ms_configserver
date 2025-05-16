@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Cards Service prod"
+  contactDetails:
+    name: "Levits"
+    email: "Hx3yM@example.com"
+  onCallSurpport:
+    - (555) 555-5555
+    - (666)666-6666
